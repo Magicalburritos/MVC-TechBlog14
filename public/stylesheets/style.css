@@ -23,7 +23,7 @@ a {
 a:hover {
   color: #3486eb;
 }
-.logout {
+#logout {
   color: white;
   border-left: 1px black;
 }
