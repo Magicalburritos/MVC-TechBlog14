@@ -4,7 +4,7 @@
 
 ## Description
 
-the app aloows a user to login sginup add and view comments in a blog setting
+the app allows a user to login sginup add and view comments in a blog setting
 
 ## table of Contents
 
