@@ -3,7 +3,7 @@
     <span class='posted'><a href='/post/{{id}}'>{{title}}</a></span><span
       style='float:right'
     >Posted by {{user.username}} on {{format_date created_at}}</span><br />
-    <span style='float:right'>{{comments.length}}
+    <span class='comment-count' style='float:right'>{{comments.length}}
       {{format_plural 'comment' comments.length}}</span>
   </div>
   <div class='content'>
