@@ -20,7 +20,7 @@ To install the app clone the repo then in the terminal put in.
 
 ## usage
 
-hudakjoe@msn.com
+![screenshot](./screenshot.png)
 
 ## license
 
