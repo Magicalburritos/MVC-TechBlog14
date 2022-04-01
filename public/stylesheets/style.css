@@ -23,7 +23,10 @@ a {
 a:hover {
   color: #3486eb;
 }
-
+.logout {
+  color: white;
+  border-left: 1px black;
+}
 button {
   background-color: #225ca3;
   border: 0;
@@ -79,7 +82,9 @@ form label {
   display: flex;
   flex-direction: column;
 }
-
+.posted {
+  color: #b3c6d5;
+}
 header {
   border-bottom: 1px solid #ccc;
   display: flex;
