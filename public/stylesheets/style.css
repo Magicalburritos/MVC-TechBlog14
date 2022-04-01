@@ -19,9 +19,7 @@ a {
   transition: color 0.1s;
   font-size: large;
 }
-.comment-count {
-  color: black;
-}
+
 a:hover {
   color: #3486eb;
 }
@@ -170,7 +168,9 @@ nav {
   color: white;
   padding-top: 2px;
 }
-
+.post .title span .comment-count {
+  color: black;
+}
 .edit-link {
   display: block;
   margin: -1.5% 0 2% 0;
