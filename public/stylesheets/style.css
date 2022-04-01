@@ -16,6 +16,7 @@ a {
   color: black;
   font-weight: bold;
   transition: color 0.1s;
+  font-size: x-large;
 }
 
 a:hover {
