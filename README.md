@@ -19,7 +19,7 @@ To install the app clone the repo then in the terminal put in.
 ` npm i , mysql -u root -p , sourcedb/schema.sql, npm start`
 
 ## usage
-
+Heroku:https://mvc-techblog14.herokuapp.com/
 ![screenshot](./screenshot.png)
 
 ## license
