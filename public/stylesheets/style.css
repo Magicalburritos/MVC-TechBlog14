@@ -25,9 +25,9 @@ a {
 a:hover {
   color: #3486eb;
 }
-#logout-btn {
+#logout {
   color: white;
-  border-left: 1px black;
+  border-left: 4px black;
   border-style: solid;
 }
 button {
